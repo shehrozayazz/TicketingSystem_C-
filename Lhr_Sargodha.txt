@@ -1,0 +1,13 @@
+                                        =>   Lahore to Sargodha                                     
+                                             =====================                                  
+                    DEPARTURE                ARRIVAL              FARE             BUS              
+                    ==========               ========             =======          ====             
+               =>  06:00 AM                  8:15 AM              Rs.400/-       Super Luxary       
+               =>  06:45 AM                  09:00 AM             Rs.400/-       Super Luxary       
+               =>  7:45 PM                   10:00 AM             Rs.400/-       Super Luxary       
+               =>  08:30 AM                  10:45 AM             Rs500/-          Premium          
+               =>  09:45 AM                  12:00 NOON           Rs.400/-       Super Luxary       
+               =>  01:30 PM                  3:45 PM              Rs.400/-       Super Luxary       
+               =>  05:00 PM                  07:30 PM             Rs.500/-         Premium          
+               =>  07:00 PM                  09:30 PM             Rs.400/-       Super Luxary       
+               =>  09:00 PM                  10:15 pm             Rs.400/-       Siper Luxary       

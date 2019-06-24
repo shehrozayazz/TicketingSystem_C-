@@ -1,0 +1,13 @@
+                                        =>   Lahore to Karachi                                      
+                                             =====================                                  
+                    DEPARTURE                ARRIVAL              FARE             BUS              
+                    ==========               ========             =======          ====             
+               =>  00:00 PM                  10:00 AM             Rs.4180/-        Luxary           
+               =>  00:45 PM                  10:45 AM             Rs.4180/-        Luxary           
+               =>  01:00 PM                  11:15 AM             Rs.4180/-        Luxary           
+               =>  01:30 PM                  12:45 PM             Rs4980/-         Premium          
+               =>  02:00 PM                  01:00 PM             Rs.4180/-        Luxary           
+               =>  04:30 PM                  3:00 PM              Rs.4180/-        Luxary           
+               =>  05:00 PM                  03:30 PM             Rs.4980/-        Premium          
+               =>  07:00 PM                  06:30 PM             Rs.4180/-        Luxary           
+               =>  09:00 PM                  08:00 pm             Rs.4180/-        Luxary           

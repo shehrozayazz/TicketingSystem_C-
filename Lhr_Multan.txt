@@ -1,0 +1,13 @@
+                                        =>   Lahore to Multan                                       
+                                             =====================                                  
+                    DEPARTURE                ARRIVAL              FARE             BUS              
+                    ==========               ========             =======          ====             
+               =>  06:00 AM                  11:15 PM             Rs.800/-       Super Luxary       
+               =>  07:00 AM                  12:15 PM             Rs.800/-       Super Luxary       
+               =>  09:00 AM                  02:15 PM             Rs.800/-       Super Luxary       
+               =>  10:00 AM                  03:15 PM             Rs.1000/-        Premium          
+               =>  11:00 AM                  04:30 PM             Rs.800/-       Super Luxary       
+               =>  01:00 PM                  06:15 PM             Rs.800/-       Super Luxary       
+               =>  04:00 PM                  09:15 PM             Rs.1000/-        Premium          
+               =>  05:00 PM                  10:30 PM             Rs.800/-       Super Luxary       
+               =>  09:00 PM                  02:15 AM             Rs.800/-       Siper Luxary       

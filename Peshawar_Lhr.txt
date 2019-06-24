@@ -1,0 +1,13 @@
+                                        =>   Peshawar to Lahore                                     
+                                             =====================                                  
+                    DEPARTURE                ARRIVAL              FARE             BUS              
+                    ==========               ========             =======          ====             
+               =>  06:00 AM                  12:15 PM             Rs.1050/-      Super Luxary       
+               =>  07:00 AM                  01:15 PM             Rs.1050/-      Super Luxary       
+               =>  09:00 AM                  03:15 PM             Rs.1050/-      Super Luxary       
+               =>  10:00 AM                  04:15 PM             Rs.1250/-        Premium          
+               =>  11:00 AM                  05:30 PM             Rs.1050/-      Super Luxary       
+               =>  01:00 PM                  07:15 PM             Rs.1050/-      Super Luxary       
+               =>  04:00 PM                  10:15 PM             Rs.1250/-        Premium          
+               =>  05:00 PM                  11:30 PM             Rs.1050/-      Super Luxary       
+               =>  09:00 PM                  03:15 AM             Rs.1050/-      Siper Luxary       
